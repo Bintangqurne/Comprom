@@ -1,0 +1,5 @@
+SECRET = rahasia
+GOOGLE_CLIENT_ID = 226340901131-ihklr7d0frg6tqv0sc7gcpta5nkvfc3c.apps.googleusercontent.com
+CLIENT_ID_GITHUB = c61e218869c0da3553a3
+CLIENT_SECRET_GITHUB = 5dd0d9ed6865aac9daf4953b20abf216c3d18239
+MIDTRANS_SERVER_KEY = SB-Mid-server-bFsbc8FLgh5_gSqoN_65KYne
