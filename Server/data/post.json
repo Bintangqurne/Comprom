@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Pantai",
+        "imageUrl": "https://anekatempatwisata.com/wp-content/uploads/2015/08/Pantai-Pink-Pulau-Komodo.jpg",
+        "description": "Asik Nih Di Pantai",
+        "UserId": 1
+    },
+    {
+        "title": "Anime",
+        "imageUrl": "https://wallpapercave.com/wp/wp2301560.jpg",
+        "description": "Saya Wibu",
+        "UserId": 2
+    },
+    {
+        "title": "Mobil",
+        "imageUrl": "https://wallpapercave.com/uwp/uwp4270768.jpeg",
+        "description": "Mobilnya Keren",
+        "UserId": 3
+    },
+    {
+        "title": "Game Baru",
+        "imageUrl": "https://wallpapercave.com/uwp/uwp4266480.jpeg",
+        "description": "Nfs game seru",
+        "UserId": 4
+    },
+    {
+        "title": "Macan",
+        "imageUrl": "https://wallpapercave.com/uwp/uwp4270722.jpeg",
+        "description": "Bagus macannya hehe",
+        "UserId": 5
+    },
+    {
+        "title": "Sixth Post",
+        "imageUrl": "https://wallpapercave.com/fuwp/uwp4068501.jpeg",
+        "description": "Kit Hearts Bro #Broken Home",
+        "UserId": 6
+    },
+    {
+        "title": "Santai sek",
+        "imageUrl": "https://wallpapercave.com/uwp/uwp4251547.jpeg",
+        "description": "Santai dulu ga sih i project mudah",
+        "UserId": 7
+    },
+    {
+        "title": "Panda",
+        "imageUrl": "https://wallpapercave.com/uwp/uwp4271916.jpeg",
+        "description": "Panda e Ngawang jir",
+        "UserId": 8
+    },
+    {
+        "title": "Anjing",
+        "imageUrl": "https://wallpapercave.com/uwp/uwp4271640.jpeg",
+        "description": "Asu e Lucu",
+        "UserId": 9
+    },
+    {
+        "title": "Cosplay",
+        "imageUrl": "https://wallpapercave.com/uwp/uwp4270944.jpeg",
+        "description": "Cute",
+        "UserId": 10
+    },
+    {
+        "title": "Idol",
+        "imageUrl": "https://wallpapercave.com/wp/wp4601282.jpg",
+        "description": "Cantik Banget Bro",
+        "UserId": 11
+    },
+    {
+        "title": "Game",
+        "imageUrl": "https://wallpapercave.com/uwp/uwp4270367.png",
+        "description": "Infonya game keren sarannya dong kak",
+        "UserId": 12
+    },
+    {
+        "title": "Joker",
+        "imageUrl": "https://wallpapercave.com/uwp/uwp4271075.webp",
+        "description": "Orang jahat adalah orang yang tersakiti",
+        "UserId": 13
+    },
+    {
+        "title": "Doraemon",
+        "imageUrl": "https://wallpapercave.com/wp/Wzt1PhL.jpg",
+        "description": "Nonton Doraemon Yuk",
+        "UserId": 14
+    },
+    {
+        "title": "Tampilan",
+        "imageUrl": "https://wallpapercave.com/uwp/uwp4269399.png",
+        "description": "Keren matanya",
+        "UserId": 15
+    }
+]

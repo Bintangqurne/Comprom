@@ -1,0 +1,146 @@
+[
+    {
+        "fullName": "John Doe",
+        "email": "john@example.com",
+        "password": "password",
+        "image": "",
+        "status": "Premium",
+        "address": "123 Main Street",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "fullName": "Jane Smith",
+        "email": "jane@example.com",
+        "password": "password",
+        "image": "",
+        "status": "Premium",
+        "address": "456 Elm Street",
+        "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "fullName": "Michael Johnson",
+        "email": "michael@example.com",
+        "password": "password",
+        "image": "",
+        "status": "Premium",
+        "address": "789 Oak Street",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+        "fullName": "Emily Brown",
+        "email": "emily@example.com",
+        "password": "password",
+        "image": "",
+        "status": "Premium",
+        "address": "321 Pine Street",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    },
+    {
+        "fullName": "Chris Wilson",
+        "email": "chris@example.com",
+        "password": "password",
+        "image": "",
+        "status": "Premium",
+        "address": "654 Maple Street",
+        "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+        "fullName": "Jessica Lee",
+        "email": "jessica@example.com",
+        "password": "password",
+        "image": "",
+        "status": "Premium",
+        "address": "987 Walnut Street",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "fullName": "David Martinez",
+        "email": "david@example.com",
+        "password": "password",
+        "image": "",
+        "status": "Premium",
+        "address": "741 Cedar Street",
+        "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "fullName": "Sarah Thompson",
+        "email": "sarah@example.com",
+        "password": "password",
+        "image": "",
+        "status": "Premium",
+        "address": "852 Birch Street",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+        "fullName": "Daniel Rodriguez",
+        "email": "daniel@example.com",
+        "password": "password",
+        "image": "",
+        "status": "Premium",
+        "address": "963 Sycamore Street",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    },
+    {
+        "fullName": "Amanda Garcia",
+        "email": "amanda@example.com",
+        "password": "password",
+        "image": "",
+        "status": "Premium",
+        "address": "159 Cedar Street",
+        "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+        "fullName": "Mark Taylor",
+        "email": "mark@example.com",
+        "password": "password",
+        "image": "",
+        "status": "Free",
+        "address": "369 Pine Street",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "fullName": "Lisa Hernandez",
+        "email": "lisa@example.com",
+        "password": "password",
+        "image": "",
+        "status": "Free",
+        "address": "258 Maple Street",
+        "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "fullName": "Kevin Nguyen",
+        "email": "kevin@example.com",
+        "password": "password",
+        "image": "",
+        "status": "Free",
+        "address": "147 Oak Street",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+        "fullName": "Michelle Kim",
+        "email": "michelle@example.com",
+        "password": "password",
+        "image": "",
+        "status": "Free",
+        "address": "852 Elm Street",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    },
+    {
+        "fullName": "Brian Wilson",
+        "email": "brian@example.com",
+        "password": "password",
+        "image": "",
+        "status": "Free",
+        "address": "963 Walnut Street",
+        "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+        "fullName": "Stephanie Martinez",
+        "email": "stephanie@example.com",
+        "password": "password",
+        "image": "",
+        "status": "Free",
+        "address": "741 Pine Street",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    }
+]
